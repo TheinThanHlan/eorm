@@ -1,0 +1,25 @@
+#header{
+    display:grid;
+    grid-template-columns: 2fr 20fr; 
+    
+}
+
+#menu_button{
+    margin-right:4px;
+    margin-left:auto;
+    border-bottom-right-radius:3px;
+    border-bottom-left-radius:3px;
+    color:black;
+    
+
+}
+#app_name{
+    font-size:30px;
+    margin-left:4px;    
+    color:black;
+}
+
+#app_name,#menu_button{
+    margin-top:3px;
+    
+}

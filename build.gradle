@@ -1,0 +1,74 @@
+
+plugins{
+	id 'java'
+	id 'war'
+}
+
+repositories{
+	mavenCentral();
+}
+dependencies{
+	//Servlet Lib
+    compileOnly 'javax.servlet:javax.servlet-api:4.0.1'
+	/*
+	implementation 'org.springframework:spring-context:6.0.6'
+	implementation 'org.springframework:spring-webmvc:6.3.25'
+	implementation 'org.springframework:spring-core:6.0.6'
+	*/
+	implementation 'org.springframework:spring-webmvc:5.3.25'
+    implementation 'org.springframework:spring-core:5.3.25'
+	implementation 'org.springframework:spring-context:5.3.25'
+	implementation 'org.springframework:spring-jdbc:5.3.25'
+
+	//gson
+	implementation 'com.google.code.gson:gson:2.10.1'
+
+
+	//mysql connector
+	implementation 'com.mysql:mysql-connector-j:8.0.32'
+
+	//lombok
+	compileOnly 'org.projectlombok:lombok:1.18.26'
+	annotationProcessor 'org.projectlombok:lombok:1.18.26'
+}
+
+
+
+war{
+}
+
+
+task shutdown_server(type:Exec){
+	workingDir 'tomcat-9/bin/'
+	commandLine "bash","shutdown.sh"
+}
+
+task start_server(type:Exec){
+	workingDir 'tomcat-9/bin/'
+	commandLine "bash","startup.sh"
+}
+
+task go_to_browser(type:Exec){
+	commandLine "bash","xdg-open", "http://localhost:8080/eorm"
+}
+
+task restart_server(){
+	dependsOn 'shutdown_server'
+	dependsOn 'start_server'
+}
+
+
+task cp(type:Copy){
+	dependsOn "build"
+	from 'build/libs'
+	into 'tomcat-9/webapps/'
+}
+
+task run(){
+	dependsOn  "build"
+	dependsOn "cp"
+	dependsOn "shutdown_server"
+	dependsOn "start_server"
+	//dependsOn "go_to_browser"
+	
+}

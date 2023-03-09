@@ -1,0 +1,43 @@
+#opened_notes{
+    
+    display:grid;
+    grid-template-columns:calc(var(--button-height) + 10px) 10fr 2fr;
+    font-size:35px;
+    background-color:white
+}
+
+
+#opened_notes>*{
+
+}
+/*---------------------------side bar toggle button*/
+
+#side_bar_toggle{
+    margin-left: 2px;
+    margin-top:2px;
+
+}
+
+#nn{
+    overflow:scroll;
+}
+#is_saved>svg{
+    fill:green;
+
+}
+
+
+
+#tool_tip_box{
+    
+    /*    
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    */
+    margin:4px;
+    text-align:left;
+}
+
+#tool_tip_box>*{
+    display:inline-block;
+}

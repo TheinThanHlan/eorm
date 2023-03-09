@@ -1,0 +1,15 @@
+
+#male[type=radio],#female[type=radio]{
+    width:20px;
+    height:20px;
+    vertical-align: top;
+    
+
+    
+}
+#gender{
+    margin-top:5px;
+}
+
+.auth-box{
+}

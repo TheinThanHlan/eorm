@@ -1,0 +1,93 @@
+:root{
+    --test-outline:1px solid black;
+}
+
+#body{
+    display:flex;
+    flex-direction: row;
+    color:black;
+    
+}
+#side_bar{
+    min-height: calc(100vh - var(--button-height) - 9px);
+    max-height: calc(100vh - var(--button-height) - 8px);
+    max-width: 310px;
+    min-width: 330px;
+    flex:1;
+}
+#note_body{
+    width:100% ;
+    flex:1;
+    max-height: calc(100vh - var(--button-height) - 10px);
+    min-height: calc(100vh - var(--button-height) - 10px);
+    overflow-y:scroll;
+    position:relative;
+    background-color:white;
+    border-left:0.1px solid var(--secondary-color);
+    border-top:0.1px solid var(--secondary-color);
+    border-radius:var(--default-button-border-radius);
+}
+ 
+
+
+
+/*_____________________________________ note body ________________________________*/
+
+
+#opened_notes{
+    position:sticky;
+    top:0;
+    max-width:100%;
+    min-width:99%;
+    height:calc(var(--button-height) + 2px);
+    outline: var(--test-outline);
+    overflow-x:scroll;
+    background-color:var(--primary-color);
+    overflow-y:hidden;
+}
+
+.opened_note_button{
+    display:inline-block;
+    vertical-align:top;
+
+}
+    
+.Tview{
+    width: 10000px;
+    height:2px;   
+}
+
+/*---------------------------side bar toggle button*/
+
+
+
+
+#add_new_row_button{
+    text-align:left;   
+    fill:var(--primary-color);
+    width:50%;
+    height:45px;
+    margin:auto;
+}
+#add_new_row_button>*{
+    width:50px;
+    height:40px;
+    display:inline-block;
+    position:relative;
+    left:50%;
+    top:50%; 
+    transform:translate(-50%,-50%);
+}
+
+
+
+
+
+
+
+
+
+
+.current_note_color{
+    background-color: black;
+}

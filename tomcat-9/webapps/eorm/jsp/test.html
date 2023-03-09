@@ -1,0 +1,21 @@
+
+<script src="script/jquery-git.min.js"></script>
+<input type="file"  id="xx" />        
+
+<style>
+    #xx{
+        background-image:url("https://image-processor-storage.s3.us-west-2.amazonaws.com/images/3cf61c1011912a2173ea4dfa260f1108/halo-of-neon-ring-illuminated-in-the-stunning-landscape-of-yosemite.jpg");
+        width:400px;
+        height:400px;
+    }
+
+</style>
+
+
+
+
+<script>
+    $(document).on("click","#xx",function(){
+        console.out(document.getElementById("#xx").files[0]);
+    })
+</script>

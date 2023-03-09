@@ -1,0 +1,3 @@
+#more_tools_add_rem_note{
+    left:calc(var(--button-height) * -1);
+}
