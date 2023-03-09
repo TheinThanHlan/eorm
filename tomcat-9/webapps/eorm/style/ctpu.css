@@ -1,63 +1,73 @@
-#ctpu{
-    position:absolute;
-    width:20%;
-    background-color: black;
-    top:30%;
-    border:0.1px solid black;
-    border-radius:8px;
-    left:50%;
-    transform: translate(-50%,-50%);
-    background-color: var(--primary-color);
-    box-shadow:0px 0 3px 1px black;
-    display: none;
-}
+    #ctpu{
+        position:absolute;
+        width:20%;
+        background-color: black;
+        top:30%;
+        border:0.1px solid black;
+        border-radius:8px;
+        left:50%;
+        transform: translate(-50%,-50%);
+        background-color: var(--primary-color);
+        box-shadow:0px 0 3px 1px black;
+        display: none;
+    }
 
-#ctpu>.ctpu_title{
-    border-bottom:1px solid black;
-    font-size:25px;
-    color:black;
-    font-weight:400;
-    padding-left:5%;
-    padding-top:2%;
-    padding-bottom:2%;
-}
+    #ctpu>.ctpu_title{
+        border-bottom:1px solid black;
+        font-size:25px;
+        color:black;
+        font-weight:400;
+        padding-left:5%;
+        padding-top:2%;
+        padding-bottom:2%;
+    }
 
-#ctpu>.ctpu_body>.ctpu_input_box>input{
-    height: calc(var(--button-height) *  3/4 );
-    margin-top:8px;
-    margin-bottom: 8px;
-    width:90%;
-}
+    #ctpu>.ctpu_body>.ctpu_input_box>input{
+        height: calc(var(--button-height) *  3/4 );
+        margin-top:8px;
+        margin-bottom: 8px;
+        width:90%;
+    }
 
-#ctpu>.ctpu_body>.ctpu_input_box>input[type='text']{
-    font-size:25px;
-}
-
-.ctpu_input_names{
-    font-size:25px;
-    color:black;
-    padding-left:5%;
-}
-#ctpu>.ctpu_body>.ctpu_input_box{
-    text-align:center;
-}
+    #ctpu>.ctpu_body>.ctpu_input_box>#cat_select{
+        height: calc(var(--button-height) *  3/4 );
+        margin-top:8px;
+        margin-bottom: 8px;
+        width:90%;
+        font-size:25px;
+    }
 
 
-.ctpu_buttons{
-}
-.ctpu_button{
-    display:inline-block;
-    width:90%;
-    margin-left:5%;
-    margin-right:5%;
 
-    margin-bottom:8px;
-}
-.add_cat{
 
-}
-.add_page{
-}
+    #ctpu>.ctpu_body>.ctpu_input_box>input[type='text']{
+        font-size:25px;
+    }
+
+    .ctpu_input_names{
+        font-size:25px;
+        color:black;
+        padding-left:5%;
+    }
+    #ctpu>.ctpu_body>.ctpu_input_box{
+        text-align:center;
+    }
+
+    .ctpu_buttons{
+    }
+    .ctpu_button{
+        display:inline-block;
+        width:90%;
+        margin-left:5%;
+        margin-right:5%;
+
+        margin-bottom:8px;
+    }
+    .add_cat{
+
+    }
+    .add_page{
+    }
 
 
 

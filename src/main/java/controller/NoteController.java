@@ -17,13 +17,38 @@ public class NoteController{
     @PostMapping("/add_cat")
     @ResponseBody
     public String add_cat(HttpServletRequest request){
-        Category category=new Category();
-        User user=((User)(request.getSession().getAttribute("user")));
-        category.setName(request.getParameter("cat_name"));
+        Category category=new Category();                                   //for add cat
+        User user=((User)(request.getSession().getAttribute("user")));      //get user from request session
+        category.setName(request.getParameter("cat_name"));                 //set cat to add
         category.setDate(request.getParameter("cat_date"));
-        Categories categories= ndao.add_cat(user,category);
-        return (new Gson().toJson(new Object[]{!categories.isEmpty(),categories}));
             
+        Categories categories= ndao.add_cat(user,category);                 //use to get Categories
+        return (new Gson().toJson(new Object[]{!categories.isEmpty(),categories}));
     }
+
+    @PostMapping("/get_cat")
+    @ResponseBody
+    public String get_cat(HttpServletRequest request){
+        User user=((User)(request.getSession().getAttribute("user")));          //get user from request session
+        Categories categories= ndao.getCategories(user);                              //use to get Categories
+        return (new Gson().toJson(new Object[]{!categories.isEmpty(),categories}));
+    }
+
+
+    @PostMapping("/add_page")
+    @ResponseBody
+    public String add_page(HttpServletRequest request){
+        Category category=new Category();   
+        Page page=new Page();                                //for add cat
+        User user=((User)(request.getSession().getAttribute("user")));      //get user from request session
+        category.setId(Integer.parseInt(request.getParameter("cat_id")));                 //set cat to add
+        page.setDate(request.getParameter("page_date"));
+        page.setName(request.getParameter("page_name"));
+            
+        Categories categories= ndao.add_page(user,category,page);                 //use to get Categories
+        return (new Gson().toJson(new Object[]{!categories.isEmpty(),categories}));
+        
+    }
+
 
 }

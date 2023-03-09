@@ -22,18 +22,42 @@ public class NoteDao{
 
    @Value("${get_categories}")
     String get_categories;
+   @Value("${get_page}")
+   String get_page;
     public Categories getCategories(User user){
        return template.queryForObject(String.format(get_categories,user.getId()),new RowMapper<Categories>(){
             public Categories mapRow(ResultSet rs,int rownumber)throws SQLException{
                 LinkedList <Category>x=new LinkedList<Category>();
                 do{
                     Category category=new Category();
-
                     category.setId(rs.getInt(1));
                     category.setName(rs.getString(2));
                     category.setDate(rs.getString(3));
+                    try{
+                    LinkedList<Page> pages=template.queryForObject(String.format(get_page,category.getId()),new RowMapper<LinkedList<Page>>(){
+                        public LinkedList<Page> mapRow(ResultSet rs,int rownuumber1) throws SQLException{
+                        LinkedList <Page> tmpPages=new LinkedList<Page>();
+                
+                            do{
+                                Page p=new Page();
+                                p.setId(rs.getInt(1));
+                                p.setName(rs.getString(2));
+                                p.setDate(rs.getString(3));
+                                tmpPages.add(p);
+                            }while(rs.next());
+                            
+                            return tmpPages;
+                        }
+                    });
+
+                    category.setPages(pages);
+                    }catch(Exception e){
+
+                    }
+
                     x.add(category);
                 }while(rs.next());
+    
                 Categories cats=new Categories();
                 cats.setCategories(x);
                 return cats;
@@ -56,4 +80,16 @@ public class NoteDao{
         }
     }
 
+    @Value("${add_new_page}")
+    String add_new_page;
+    public Categories add_page(User user,Category category,Page page){
+    try{
+        if(template.update(String.format(add_new_page,category.getId(),page.getName(),page.getDate()))!=0){
+            return getCategories(user);
+        }
+        return new Categories();
+    }catch(Exception e){
+        return new Categories();
+    }
+    }
 }

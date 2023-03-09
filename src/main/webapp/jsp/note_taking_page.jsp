@@ -440,7 +440,8 @@
           <label for="cat_select">Select Category : </label>
         </div>
         <div class="ctpu_input_box add_page">
-            <input type="text" id="cat_select" >
+            <select id="cat_select">
+            </select>
         </div>
 
         <div class="ctpu_input_names add_page">
@@ -456,7 +457,6 @@
         <div class="button-general ctpu_button level-1-button" id="ctpu_cancel_button">Cancel</div>
     </div>
 </div>
-
 
 
 <!-------------------------------------------------------------------->
