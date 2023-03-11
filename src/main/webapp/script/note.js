@@ -1,4 +1,7 @@
 var categories={};
+var current_page={};
+var current_page_id={};
+
 
 $(document).ready(function(){
     $.ajax({
@@ -14,41 +17,38 @@ $(document).ready(function(){
         }
       }
     }) 
-})
-
-
-
-
-
+    $(".title_div").css("visibility","hidden")
+  })
 
 
 function refreshCat(catObj){
+  
   $("#note_categories").html("");
   $("#cat_select").html("");
   for(let a=0;a<catObj.categories.length;a++){
-        let tmp='<div class="note_categoary">'                                                                                                                                                                                                                                        
-                + '<div class="button-general note_categoary_button note_categoary_button_1" id="category-button-"'+a+'>'                                                                                                                           
-                + '<div class="note_categoary_icon_1">'                                                                                                                                                                                             
-                + '<svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg">'                                                                                                                                                                                                                         
-                + '<path d="M20 8h-12c-2.21 0-3.98 1.79-3.98 4l-.02 24c0 2.21 1.79 4 4 4h32c2.21 0 4-1.79 4-4v-20c0-2.21-1.79-4-4-4h-16l-4-4z" />'                                                                                                                          
-                + '<path d="M0 0h48v48h-48z" fill="none" />'                                                                                                                                                                                                                
-                + '</svg>'                                                                                                                                                                                                                                                                      
-                + '</div>'
-                + '<div class="note_categoary_title note_categoary_title_1">'                                                                                                                                   
-                + '<div>'
-                +  catObj.categories[a].name                                                                                                             
-                + '</div>'                                                                                                                                                                                                                      
-                + '</div>'
-                + '</div>'
-                + '<div class="note_categoary_fold" >'                                                                                                                          
-                +                                                                                                                               
-                +  '</div>'
-                +  '</div>'
+          let tmp11='    <div class="nt_cat">'
+                    +'        <div class="button-general nt_button">'
+                    +'            <div>'
+                    + catObj.categories[a].name
+                    +'            </div>'
+                    +'        </div>'
+                    +'        <div class="nt_fold" hidden="true">'
+
+     
+    let tmp12='';
+        for(let b=0;b<catObj.categories[a].pages.length;b++){
+              tmp12 +='<div class="button-general pg_fold_button" cat="'+catObj.categories[a].id+'" pg="'+catObj.categories[a].pages[b].id+'"><div>'
+                      + catObj.categories[a].pages[b].name
+                      +'</div></div>'
+              }
+
+
+        tmp13="</div>"
 
         let tmp2='<option value="'+ catObj.categories[a].id + '">'
                 + catObj.categories[a].name
                 +'</option>'
-        $("#note_categories").append(tmp);
+        $("#note_categories").append(tmp11+tmp12+tmp13);
         $("#cat_select").append(tmp2)
 
     }
@@ -84,9 +84,11 @@ $(document).on("click","#ctpu_add_cat_button",function(){
 
 
 })
+
+
 $(document).on("click","#ctpu_add_page_button",function(){
     let tmp={
-        cat_id:categories.categories[$("#cat_select option:selected").val()].id,
+        cat_id:$("#cat_select option:selected").val(),
         page_name:$("#page_name").val(),
         page_date:   new Date().getFullYear()+"-"+new Date().getMonth()+"-"+new Date().getDate()+" "+new Date().getHours()+":"+new Date().getMinutes()+":"+new Date().getSeconds()
     }
@@ -109,3 +111,37 @@ $(document).on("click","#ctpu_add_page_button",function(){
         
     
 })
+
+$(document).on("click",".pg_fold_button",function(){
+  tmp={
+        cat_id:$(this).attr("cat"),
+        pg_id:$(this).attr("pg")
+      }
+  current_page_id=tmp
+  $(".title_div").css("visibility","visible")
+  $("#nn").text($(this).children().text())
+  $(this).addClass("current_note_color",100,function(){
+    $(".pg_fold_button").not(this).removeClass("current_note_color");
+  });
+      $.ajax({
+        url:"get_note",
+        method:"Post",
+        data:tmp,
+        success:function(result){  
+          let tmpResult=JSON.parse(result)
+          if(tmpResult[0]==true){
+
+            current_page=tmpResult[1]
+            refreshNote(current_page.notes)
+          }else{
+            
+          }
+        }
+      }) 
+  
+  
+  
+})
+
+
+

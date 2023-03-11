@@ -46,7 +46,7 @@ public class AuthController{
     }
     @GetMapping("/")
     public String f6(HttpServletRequest request){
-        HttpSession session=request.getSession();
+       HttpSession session=request.getSession();
         User user=((User)session.getAttribute("user")); 
         if(user != null && user.isEmpty()==false){
             return "jsp/note_taking_page.jsp";

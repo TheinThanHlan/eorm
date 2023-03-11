@@ -6,28 +6,17 @@ import lombok.*;
 
 public class Note{
     @Expose(serialize=true,deserialize=true)  @Getter @Setter int     id        =-1    ;
-    @Expose(serialize=true,deserialize=true)  @Getter @Setter String  title             ;
-    @Expose(serialize=true,deserialize=true)  @Getter @Setter String  content           ;
+    @Expose(serialize=true,deserialize=true)  @Getter @Setter String  name             ;
+    @Expose(serialize=true,deserialize=true)  @Getter @Setter String  body           ;
+ 
     @Expose(serialize=true,deserialize=true)  @Getter @Setter Image   images   []        ;
-    public void setNote(
-        int id,
-        String  title       ,    
-        String  content     ,     
-        Image   images   []   ){
-            this.id=id;
-            this.title=title;
-            this.content=content;
-            this.images=images;
-        }
-
-
+    @Expose(serialize=true,deserialize=true)  @Getter @Setter String   date;
 
     public boolean isEmpty(){
         if (
-            this.id==-1&&
-            this.title   == null &&
-            this.content == null &&
-            this.images   == null
+            this.name  == null &&
+            this.body == null 
+  
         ){
             return true;
         }

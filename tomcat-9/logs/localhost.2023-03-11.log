@@ -1,0 +1,1522 @@
+11-Mar-2023 00:10:22.633 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:10:22.642 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:10:22.642 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:10:22.647 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:10:25.090 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:10:25.154 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:10:26.967 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:10:26.980 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:10:27.554 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:10:27.554 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:10:27.555 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@47d7792e')
+11-Mar-2023 00:10:52.860 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:10:52.865 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:10:52.865 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:10:52.869 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:10:55.638 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:10:55.713 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:10:57.734 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:10:57.752 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:10:58.560 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:10:58.560 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:10:58.562 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@138c2ba')
+11-Mar-2023 00:44:14.018 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:44:14.028 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:44:14.028 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:44:14.034 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:44:16.697 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:44:16.750 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:44:18.530 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:44:18.543 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:44:19.200 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:44:19.200 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:44:19.202 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@453d2a55')
+11-Mar-2023 00:48:31.021 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:48:31.038 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:48:31.038 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:48:31.043 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:48:33.744 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:48:33.842 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:48:35.943 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:48:35.959 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:48:36.721 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:48:36.721 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:48:36.721 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@23fed844')
+11-Mar-2023 00:48:59.029 SEVERE [http-nio-8080-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is com.google.gson.JsonSyntaxException: java.lang.NumberFormatException: For input string: "undefined"] with root cause
+	java.lang.NumberFormatException: For input string: "undefined"
+		at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+		at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+		at java.base/java.lang.Double.parseDouble(Double.java:735)
+		at com.google.gson.stream.JsonReader.nextInt(JsonReader.java:1215)
+		at com.google.gson.internal.bind.TypeAdapters$7.read(TypeAdapters.java:249)
+		at com.google.gson.internal.bind.TypeAdapters$7.read(TypeAdapters.java:241)
+		at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.readIntoField(ReflectiveTypeAdapterFactory.java:212)
+		at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$FieldReflectionAdapter.readField(ReflectiveTypeAdapterFactory.java:433)
+		at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:393)
+		at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40)
+		at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72)
+		at com.google.gson.Gson.fromJson(Gson.java:1227)
+		at com.google.gson.Gson.fromJson(Gson.java:1137)
+		at com.google.gson.Gson.fromJson(Gson.java:1047)
+		at com.google.gson.Gson.fromJson(Gson.java:982)
+		at controller.NoteController.add_note(NoteController.java:74)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 00:50:45.067 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:50:45.075 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:50:45.075 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:50:45.081 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:50:47.524 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:50:47.595 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:50:49.348 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:50:49.362 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:50:50.056 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:50:50.057 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:50:50.059 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@510c6b9')
+11-Mar-2023 00:51:19.303 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.User (com.google.gson.internal.LinkedTreeMap and bean.User are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @78a773fd)] with root cause
+	java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.User (com.google.gson.internal.LinkedTreeMap and bean.User are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @78a773fd)
+		at controller.NoteController.add_note(NoteController.java:75)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 00:52:13.663 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:52:13.673 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:52:13.673 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:52:13.681 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:52:16.727 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:52:16.808 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:52:18.907 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:52:18.926 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:52:19.542 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:52:19.543 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:52:19.543 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3c832820')
+11-Mar-2023 00:53:04.781 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:53:04.792 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:53:04.792 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:53:04.799 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:53:07.716 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:53:07.800 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:53:09.970 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:53:09.987 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:53:10.742 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:53:10.742 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:53:10.744 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@27476b5f')
+11-Mar-2023 00:53:45.527 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:53:45.541 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:53:45.541 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:53:45.549 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:53:48.472 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:53:48.548 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:53:50.596 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:53:50.614 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:53:51.398 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:53:51.398 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:53:51.399 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@180466a9')
+11-Mar-2023 00:53:51.620 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.User (com.google.gson.internal.LinkedTreeMap and bean.User are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @14fa86ae)] with root cause
+	java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.User (com.google.gson.internal.LinkedTreeMap and bean.User are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @14fa86ae)
+		at controller.NoteController.add_note(NoteController.java:75)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 00:53:58.243 SEVERE [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.User (com.google.gson.internal.LinkedTreeMap and bean.User are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @14fa86ae)] with root cause
+	java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.User (com.google.gson.internal.LinkedTreeMap and bean.User are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @14fa86ae)
+		at controller.NoteController.add_note(NoteController.java:75)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 00:54:10.981 SEVERE [http-nio-8080-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.User (com.google.gson.internal.LinkedTreeMap and bean.User are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @14fa86ae)] with root cause
+	java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.User (com.google.gson.internal.LinkedTreeMap and bean.User are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @14fa86ae)
+		at controller.NoteController.add_note(NoteController.java:75)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 00:56:04.314 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:56:04.323 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:56:04.323 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:56:04.329 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:56:07.610 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:56:07.711 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:56:09.880 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:56:09.901 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:56:10.668 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:56:10.668 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:56:10.669 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@180466a9')
+11-Mar-2023 00:56:30.688 SEVERE [http-nio-8080-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.Note (com.google.gson.internal.LinkedTreeMap and bean.Note are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @14fa86ae)] with root cause
+	java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.Note (com.google.gson.internal.LinkedTreeMap and bean.Note are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @14fa86ae)
+		at controller.NoteController.add_note(NoteController.java:75)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 00:59:11.541 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:59:11.549 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 00:59:11.549 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 00:59:11.556 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 00:59:14.890 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:59:14.985 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:59:17.183 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 00:59:17.205 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 00:59:18.072 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 00:59:18.072 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 00:59:18.074 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6a8fa30a')
+11-Mar-2023 01:16:04.308 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:16:04.316 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 01:16:04.316 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 01:16:04.320 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:16:06.860 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:16:06.916 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:16:08.776 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:16:08.794 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:16:09.467 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 01:16:09.467 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 01:16:09.468 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@29794ef5')
+11-Mar-2023 01:19:03.118 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:19:03.128 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 01:19:03.128 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 01:19:03.131 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:19:05.419 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:19:05.533 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:19:07.333 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:19:07.346 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:19:07.942 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 01:19:07.943 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 01:19:07.944 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4191774f')
+11-Mar-2023 01:19:42.930 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:19:42.939 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 01:19:42.939 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 01:19:42.946 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:19:45.521 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:19:45.606 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:19:47.289 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:19:47.305 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:19:47.946 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 01:19:47.946 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 01:19:47.948 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6a8fa30a')
+11-Mar-2023 01:20:25.669 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:20:25.680 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 01:20:25.680 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 01:20:25.686 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:20:28.181 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:20:28.258 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:20:29.919 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:20:29.932 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:20:30.505 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 01:20:30.505 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 01:20:30.505 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@248e31a1')
+11-Mar-2023 01:21:33.396 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:21:33.404 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 01:21:33.404 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 01:21:33.408 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:21:35.882 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:21:35.958 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:21:37.647 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:21:37.661 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:21:38.268 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 01:21:38.268 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 01:21:38.270 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@180466a9')
+11-Mar-2023 01:22:16.297 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:22:16.306 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 01:22:16.306 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 01:22:16.313 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:22:19.666 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:22:19.746 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:22:21.873 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:22:21.897 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:22:22.858 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 01:22:22.858 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 01:22:22.860 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6a8fa30a')
+11-Mar-2023 01:22:59.038 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:22:59.048 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 01:22:59.048 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 01:22:59.056 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:23:02.447 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:23:02.544 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:23:04.725 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:23:04.741 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:23:05.513 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 01:23:05.513 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 01:23:05.514 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@27d38370')
+11-Mar-2023 01:23:19.977 SEVERE [http-nio-8080-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.Note (com.google.gson.internal.LinkedTreeMap and bean.Note are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @6c372fe6)] with root cause
+	java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be cast to class bean.Note (com.google.gson.internal.LinkedTreeMap and bean.Note are in unnamed module of loader org.apache.catalina.loader.ParallelWebappClassLoader @6c372fe6)
+		at controller.NoteController.add_note(NoteController.java:75)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 01:24:45.064 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:24:45.072 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 01:24:45.072 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 01:24:45.077 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 01:24:47.228 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:24:47.283 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:24:48.796 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 01:24:48.808 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 01:24:49.387 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 01:24:49.388 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 01:24:49.388 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@180466a9')
+11-Mar-2023 02:06:54.584 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:06:54.591 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:06:54.591 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:06:54.597 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:06:56.671 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:06:56.723 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:06:58.563 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:06:58.589 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:06:59.372 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:06:59.372 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:06:59.373 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1c9fa12')
+11-Mar-2023 02:10:02.040 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:10:02.044 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:10:02.044 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:10:02.048 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:10:04.297 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:10:04.374 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:10:06.120 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:10:06.139 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:10:06.787 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:10:06.787 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:10:06.788 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2c5157c9')
+11-Mar-2023 02:10:14.569 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:10:14.576 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:10:14.576 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:10:14.582 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:10:16.905 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:10:16.957 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:10:18.857 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:10:18.871 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:10:19.550 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:10:19.550 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:10:19.551 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2b208574')
+11-Mar-2023 02:22:30.784 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:22:30.790 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:22:30.790 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:22:30.793 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:22:33.000 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:22:33.042 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:22:34.778 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:22:34.793 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:22:35.349 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:22:35.349 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:22:35.350 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7f3616d2')
+11-Mar-2023 02:23:40.331 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:23:40.335 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:23:40.335 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:23:40.340 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:23:42.402 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:23:42.449 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:23:44.067 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:23:44.084 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:23:44.762 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:23:44.762 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:23:44.763 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2fad48b7')
+11-Mar-2023 02:24:50.195 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:24:50.202 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:24:50.202 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:24:50.207 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:24:52.361 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:24:52.424 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:24:54.129 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:24:54.152 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:24:54.763 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:24:54.763 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:24:54.764 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2670435')
+11-Mar-2023 02:33:36.121 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:33:36.125 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:33:36.125 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:33:36.128 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:33:38.329 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:33:38.402 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:33:40.046 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:33:40.058 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:33:40.747 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:33:40.747 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:33:40.748 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@509d0d21')
+11-Mar-2023 02:35:42.443 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:35:42.460 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:35:42.460 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:35:42.463 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:35:44.410 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:35:44.488 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:35:46.077 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:35:46.090 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:35:46.665 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:35:46.665 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:35:46.667 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@60c8cc46')
+11-Mar-2023 02:35:58.196 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:35:58.206 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:35:58.207 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:35:58.212 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:36:00.312 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:36:00.395 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:36:01.882 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:36:01.894 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:36:02.458 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:36:02.458 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:36:02.459 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6b6dce39')
+11-Mar-2023 02:41:48.875 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:41:48.884 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:41:48.884 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:41:48.890 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:41:51.312 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:41:51.369 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:41:53.011 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:41:53.028 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:41:53.622 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:41:53.622 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:41:53.623 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2c7fb24c')
+11-Mar-2023 02:47:19.453 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:47:19.464 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:47:19.464 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:47:19.470 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:47:22.069 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:47:22.145 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:47:23.806 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:47:23.818 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:47:24.390 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:47:24.390 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:47:24.391 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7b6824db')
+11-Mar-2023 02:49:48.411 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:49:48.419 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:49:48.419 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:49:48.425 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:49:50.575 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:49:50.632 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:49:52.265 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:49:52.285 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:49:52.918 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:49:52.918 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:49:52.919 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7b6824db')
+11-Mar-2023 02:51:25.808 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:51:25.817 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:51:25.817 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:51:25.822 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:51:27.907 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:51:27.967 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:51:29.387 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:51:29.397 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:51:29.891 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:51:29.891 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:51:29.892 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4fd9deed')
+11-Mar-2023 02:51:46.346 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:51:46.359 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:51:46.360 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:51:46.366 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:51:48.429 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:51:48.477 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:51:50.031 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:51:50.044 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:51:50.725 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:51:50.725 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:51:50.726 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@633aedeb')
+11-Mar-2023 02:54:54.634 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:54:54.641 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:54:54.641 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:54:54.645 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:54:56.743 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:54:56.800 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:54:58.288 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:54:58.300 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:54:58.820 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:54:58.820 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:54:58.821 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@71b75f99')
+11-Mar-2023 02:55:38.115 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:55:38.124 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:55:38.124 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:55:38.130 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:55:40.310 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:55:40.346 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:55:41.836 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:55:41.851 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:55:42.423 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:55:42.423 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:55:42.424 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77cf9b08')
+11-Mar-2023 02:56:54.747 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:56:54.754 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:56:54.754 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:56:54.758 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:56:56.914 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:56:56.982 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:56:58.412 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:56:58.427 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:56:58.984 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:56:58.984 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:56:58.985 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@47d7792e')
+11-Mar-2023 02:57:33.864 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:57:33.872 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:57:33.872 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:57:33.876 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:57:36.021 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:57:36.094 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:57:37.563 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:57:37.578 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:57:38.092 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:57:38.092 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:57:38.093 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@17cea679')
+11-Mar-2023 02:58:48.279 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:58:48.286 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 02:58:48.286 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 02:58:48.291 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 02:58:50.558 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:58:50.631 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:58:52.019 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 02:58:52.030 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 02:58:52.503 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 02:58:52.503 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 02:58:52.504 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77095c8c')
+11-Mar-2023 03:00:13.275 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:00:13.284 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:00:13.285 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:00:13.289 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:00:15.125 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:00:15.179 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:00:16.498 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:00:16.510 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:00:17.011 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:00:17.011 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:00:17.012 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@47d7792e')
+11-Mar-2023 03:00:46.755 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:00:46.764 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:00:46.764 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:00:46.768 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:00:48.949 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:00:49.006 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:00:50.696 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:00:50.708 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:00:51.399 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:00:51.399 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:00:51.401 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7b6824db')
+11-Mar-2023 03:00:58.444 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:00:58.457 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:00:58.457 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:00:58.463 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:01:00.796 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:01:00.848 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:01:02.374 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:01:02.387 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:01:02.996 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:01:02.996 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:01:02.996 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@58453967')
+11-Mar-2023 03:02:23.687 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:02:23.696 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:02:23.696 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:02:23.700 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:02:25.978 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:02:26.060 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:02:27.568 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:02:27.581 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:02:28.141 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:02:28.142 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:02:28.142 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@75c8ba94')
+11-Mar-2023 03:04:27.532 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:04:27.539 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:04:27.539 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:04:27.544 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:04:29.514 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:04:29.575 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:04:30.943 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:04:30.953 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:04:31.459 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:04:31.459 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:04:31.460 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77cf9b08')
+11-Mar-2023 03:06:03.483 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:06:03.491 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:06:03.491 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:06:03.494 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:06:05.651 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:06:05.749 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:06:07.208 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:06:07.219 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:06:07.762 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:06:07.762 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:06:07.763 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@17cea679')
+11-Mar-2023 03:10:34.808 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:10:34.817 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:10:34.817 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:10:34.822 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:10:37.149 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:10:37.216 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:10:38.689 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:10:38.704 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:10:39.248 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:10:39.248 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:10:39.249 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77cf9b08')
+11-Mar-2023 03:12:20.177 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:12:20.185 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:12:20.185 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:12:20.191 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:12:22.091 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:12:22.153 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:12:23.644 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:12:23.655 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:12:24.309 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:12:24.309 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:12:24.310 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6e1e9a10')
+11-Mar-2023 03:13:08.715 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:13:08.723 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:13:08.723 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:13:08.727 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:13:11.071 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:13:11.151 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:13:12.600 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:13:12.613 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:13:13.163 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:13:13.163 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:13:13.164 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6e1e9a10')
+11-Mar-2023 03:13:44.951 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:13:44.958 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:13:44.958 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:13:44.962 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:13:47.172 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:13:47.217 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:13:48.703 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:13:48.715 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:13:49.291 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:13:49.291 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:13:49.292 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7b6824db')
+11-Mar-2023 03:15:24.779 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:15:24.787 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:15:24.787 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:15:24.792 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:15:26.958 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:15:27.030 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:15:28.664 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:15:28.682 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:15:29.232 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:15:29.232 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:15:29.233 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4eef2522')
+11-Mar-2023 03:18:15.362 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:18:15.370 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:18:15.371 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:18:15.376 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:18:17.643 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:18:17.724 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:18:19.145 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:18:19.157 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:18:19.664 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:18:19.664 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:18:19.665 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4eef2522')
+11-Mar-2023 03:20:22.296 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:20:22.304 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:20:22.304 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:20:22.309 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:20:24.598 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:20:24.666 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:20:26.186 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:20:26.196 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:20:26.703 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:20:26.703 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:20:26.704 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@453d2a55')
+11-Mar-2023 03:21:27.024 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:21:27.032 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:21:27.032 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:21:27.039 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:21:29.346 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:21:29.427 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:21:30.842 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:21:30.853 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:21:31.347 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:21:31.347 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:21:31.348 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1dc9aba0')
+11-Mar-2023 03:25:13.825 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:25:13.832 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:25:13.832 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:25:13.836 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:25:16.110 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:25:16.159 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:25:17.536 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:25:17.548 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:25:18.075 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:25:18.075 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:25:18.076 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6e1e9a10')
+11-Mar-2023 03:26:13.932 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:26:13.939 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:26:13.939 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:26:13.944 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:26:16.117 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:26:16.176 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:26:17.607 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:26:17.618 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:26:18.089 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:26:18.089 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:26:18.090 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@17cea679')
+11-Mar-2023 03:29:22.065 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:29:22.073 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:29:22.073 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:29:22.079 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:29:24.372 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:29:24.419 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:29:25.832 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:29:25.848 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:29:26.341 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:29:26.341 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:29:26.342 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6e1e9a10')
+11-Mar-2023 03:30:21.040 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:30:21.052 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:30:21.052 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:30:21.058 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:30:22.732 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:30:22.790 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:30:24.403 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:30:24.419 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:30:24.978 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:30:24.978 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:30:24.979 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@65a42136')
+11-Mar-2023 03:31:31.846 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:31:31.853 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:31:31.853 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:31:31.858 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:31:33.641 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:31:33.694 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:31:35.575 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:31:35.593 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:31:36.406 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:31:36.407 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:31:36.408 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@74be992a')
+11-Mar-2023 03:31:37.660 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:31:37.702 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:31:39.353 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:31:39.368 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:31:39.963 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:31:39.964 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:31:39.965 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1ef8cf89')
+11-Mar-2023 03:31:40.032 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:31:40.037 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:31:40.037 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:31:40.041 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:35:01.646 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:35:01.715 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:35:03.572 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:35:03.587 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:35:04.252 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:35:04.252 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:35:04.253 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3dd4f91d')
+11-Mar-2023 03:39:05.877 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:39:05.896 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:39:05.896 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:39:05.902 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:39:08.102 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:39:08.139 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:39:09.806 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:39:09.817 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:39:10.376 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:39:10.376 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:39:10.377 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2505480a')
+11-Mar-2023 03:40:04.816 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:40:04.824 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:40:04.824 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:40:04.829 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:40:07.307 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:40:07.390 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:40:09.209 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:40:09.229 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:40:09.914 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:40:09.914 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:40:09.915 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4fd9deed')
+11-Mar-2023 03:41:11.801 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:41:11.808 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:41:11.808 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:41:11.812 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:41:14.093 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:41:14.143 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:41:15.606 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:41:15.618 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:41:16.215 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:41:16.216 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:41:16.217 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@648e25f2')
+11-Mar-2023 03:41:39.352 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:41:39.359 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:41:39.359 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:41:39.363 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:41:41.717 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:41:41.788 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:41:43.439 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:41:43.451 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:41:44.100 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:41:44.101 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:41:44.102 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7b6824db')
+11-Mar-2023 03:42:40.911 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:42:40.920 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:42:40.920 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:42:40.925 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:42:43.042 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:42:43.112 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:42:45.036 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:42:45.053 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:42:45.619 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:42:45.619 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:42:45.620 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6aa16117')
+11-Mar-2023 03:42:49.196 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:42:49.205 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:42:49.205 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:42:49.209 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:42:51.511 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:42:51.577 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:42:53.128 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:42:53.140 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:42:53.692 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:42:53.692 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:42:53.693 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7b6824db')
+11-Mar-2023 03:44:09.025 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:44:09.031 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:44:09.031 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:44:09.035 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:44:11.244 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:44:11.314 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:44:12.972 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:44:12.985 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:44:13.720 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:44:13.721 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:44:13.724 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@75ad7531')
+11-Mar-2023 03:45:03.279 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:45:03.287 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:45:03.287 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:45:03.294 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:45:05.816 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:45:05.907 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:45:07.336 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:45:07.353 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:45:07.881 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:45:07.881 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:45:07.882 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@17cea679')
+11-Mar-2023 03:46:32.827 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:46:32.837 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:46:32.837 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:46:32.842 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:46:35.119 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:46:35.186 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:46:36.660 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:46:36.673 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:46:37.191 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:46:37.192 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:46:37.193 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1c6ab85')
+11-Mar-2023 03:48:10.680 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:48:10.686 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:48:10.687 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:48:10.692 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:48:12.917 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:48:13.003 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:48:14.477 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:48:14.490 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:48:15.102 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:48:15.103 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:48:15.104 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4eef2522')
+11-Mar-2023 03:48:29.445 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:48:29.453 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:48:29.453 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:48:29.457 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:48:31.976 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:48:32.046 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:48:33.839 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:48:33.857 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:48:34.481 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:48:34.481 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:48:34.483 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@252da8f')
+11-Mar-2023 03:51:25.177 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:51:25.184 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:51:25.184 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:51:25.188 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:51:27.398 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:51:27.432 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:51:28.922 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:51:28.935 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:51:29.573 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:51:29.573 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:51:29.574 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@17cea679')
+11-Mar-2023 03:51:52.384 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:51:52.391 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:51:52.391 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:51:52.395 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:51:54.634 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:51:54.707 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:51:56.389 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:51:56.409 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:51:57.075 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:51:57.076 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:51:57.077 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@17cea679')
+11-Mar-2023 03:52:17.401 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:52:17.408 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:52:17.408 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:52:17.413 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:52:19.808 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:52:19.855 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:52:21.228 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:52:21.238 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:52:21.809 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:52:21.810 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:52:21.810 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@17cea679')
+11-Mar-2023 03:57:00.870 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:57:00.878 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:57:00.878 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:57:00.884 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:57:03.049 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:57:03.129 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:57:04.499 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:57:04.514 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:57:05.043 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:57:05.043 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:57:05.044 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@75ad7531')
+11-Mar-2023 03:57:33.760 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:57:33.769 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 03:57:33.769 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 03:57:33.776 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 03:57:35.888 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:57:35.933 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:57:37.340 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 03:57:37.353 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 03:57:37.971 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 03:57:37.971 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 03:57:37.972 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77cf9b08')
+11-Mar-2023 04:00:07.698 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:00:07.708 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:00:07.708 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:00:07.713 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:00:09.498 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:00:09.563 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:00:11.284 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:00:11.302 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:00:11.836 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:00:11.836 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:00:11.837 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77cf9b08')
+11-Mar-2023 04:00:56.230 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:00:56.237 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:00:56.237 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:00:56.240 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:00:58.436 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:00:58.509 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:00:59.859 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:00:59.872 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:01:00.422 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:01:00.422 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:01:00.423 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@633aedeb')
+11-Mar-2023 04:04:29.234 SEVERE [http-nio-8080-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0] with root cause
+	org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+		at org.springframework.dao.support.DataAccessUtils.nullableSingleResult(DataAccessUtils.java:97)
+		at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:509)
+		at dao.NoteDao.getCategories(NoteDao.java:28)
+		at controller.NoteController.get_cat(NoteController.java:34)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 04:04:55.427 SEVERE [http-nio-8080-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0] with root cause
+	org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+		at org.springframework.dao.support.DataAccessUtils.nullableSingleResult(DataAccessUtils.java:97)
+		at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:509)
+		at dao.NoteDao.getCategories(NoteDao.java:28)
+		at controller.NoteController.get_cat(NoteController.java:34)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 04:04:56.149 SEVERE [http-nio-8080-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0] with root cause
+	org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+		at org.springframework.dao.support.DataAccessUtils.nullableSingleResult(DataAccessUtils.java:97)
+		at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:509)
+		at dao.NoteDao.getCategories(NoteDao.java:28)
+		at controller.NoteController.get_cat(NoteController.java:34)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 04:05:15.580 SEVERE [http-nio-8080-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0] with root cause
+	org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+		at org.springframework.dao.support.DataAccessUtils.nullableSingleResult(DataAccessUtils.java:97)
+		at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:509)
+		at dao.NoteDao.getCategories(NoteDao.java:28)
+		at controller.NoteController.get_cat(NoteController.java:34)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 04:05:37.155 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/eorm] threw exception [Request processing failed; nested exception is org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0] with root cause
+	org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+		at org.springframework.dao.support.DataAccessUtils.nullableSingleResult(DataAccessUtils.java:97)
+		at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:509)
+		at dao.NoteDao.getCategories(NoteDao.java:28)
+		at controller.NoteController.get_cat(NoteController.java:34)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:528)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:596)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1589)
+11-Mar-2023 04:11:22.218 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:11:22.227 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:11:22.227 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:11:22.233 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:11:24.385 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:11:24.457 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:11:25.905 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:11:25.920 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:11:26.437 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:11:26.438 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:11:26.438 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77cf9b08')
+11-Mar-2023 04:19:02.588 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:19:02.595 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:19:02.595 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:19:02.600 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:19:04.869 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:19:04.928 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:19:06.700 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:19:06.722 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:19:07.310 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:19:07.310 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:19:07.311 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@17cea679')
+11-Mar-2023 04:21:02.972 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:21:02.980 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:21:02.980 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:21:02.986 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:21:05.384 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:21:05.474 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:21:07.275 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:21:07.292 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:21:07.897 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:21:07.897 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:21:07.898 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@17cea679')
+11-Mar-2023 04:24:38.012 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:24:38.022 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:24:38.022 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:24:38.027 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:24:40.302 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:24:40.382 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:24:41.877 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:24:41.890 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:24:42.475 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:24:42.475 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:24:42.476 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6e1e9a10')
+11-Mar-2023 04:25:18.191 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:25:18.198 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:25:18.198 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:25:18.203 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:25:20.497 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:25:20.560 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:25:22.143 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:25:22.155 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:25:22.701 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:25:22.701 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:25:22.702 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2505480a')
+11-Mar-2023 04:25:43.824 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:25:43.834 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:25:43.834 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:25:43.838 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:25:46.202 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:25:46.271 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:25:47.722 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:25:47.733 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:25:48.233 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:25:48.233 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:25:48.234 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77cf9b08')
+11-Mar-2023 04:28:32.701 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:28:32.709 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:28:32.709 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:28:32.713 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:28:34.728 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:28:34.797 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:28:36.255 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:28:36.270 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:28:36.862 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:28:36.862 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:28:36.863 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77cf9b08')
+11-Mar-2023 04:34:19.002 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:34:19.008 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:34:19.008 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:34:19.011 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:34:21.217 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:34:21.278 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:34:22.931 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:34:22.953 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:34:23.631 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:34:23.631 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:34:23.632 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2c7fb24c')
+11-Mar-2023 04:35:45.111 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:35:45.120 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:35:45.120 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:35:45.125 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:35:47.389 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:35:47.473 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:35:48.971 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:35:48.983 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:35:49.602 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:35:49.602 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:35:49.605 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4eef2522')
+11-Mar-2023 04:42:04.045 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:42:04.056 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:42:04.056 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:42:04.061 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:42:06.116 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:42:06.206 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:42:07.830 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:42:07.841 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:42:08.442 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:42:08.442 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:42:08.444 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77095c8c')
+11-Mar-2023 04:45:30.580 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:45:30.587 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:45:30.587 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:45:30.591 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:45:32.923 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:45:32.987 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:45:34.419 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:45:34.433 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:45:35.046 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:45:35.046 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:45:35.047 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@71b75f99')
+11-Mar-2023 04:53:02.817 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:53:02.825 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:53:02.825 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:53:02.831 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:53:04.948 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:53:05.018 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:53:06.486 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:53:06.498 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:53:07.051 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:53:07.051 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:53:07.052 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77cf9b08')
+11-Mar-2023 04:53:48.206 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:53:48.217 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:53:48.217 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:53:48.222 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:53:50.296 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:53:50.359 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:53:51.835 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:53:51.848 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:53:52.392 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:53:52.392 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:53:52.393 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4fd9deed')
+11-Mar-2023 04:54:53.491 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:54:53.500 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 04:54:53.500 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 04:54:53.505 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 04:54:55.446 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:54:55.522 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:54:56.826 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 04:54:56.838 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 04:54:57.312 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 04:54:57.313 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 04:54:57.314 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2c7fb24c')
+11-Mar-2023 05:06:34.776 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 05:06:34.783 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 05:06:34.783 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 05:06:34.787 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 05:06:36.829 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 05:06:36.911 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 05:06:38.410 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 05:06:38.423 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 05:06:39.014 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 05:06:39.014 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 05:06:39.015 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@252da8f')
+11-Mar-2023 05:07:46.750 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 05:07:46.758 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 05:07:46.758 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 05:07:46.762 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 05:07:49.142 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 05:07:49.216 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 05:07:50.859 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+11-Mar-2023 05:07:50.872 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+11-Mar-2023 05:07:51.403 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+11-Mar-2023 05:07:51.403 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+11-Mar-2023 05:07:51.404 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@464d25b2')
+11-Mar-2023 05:09:28.685 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+11-Mar-2023 05:09:28.702 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2023 05:09:28.702 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2023 05:09:28.713 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'

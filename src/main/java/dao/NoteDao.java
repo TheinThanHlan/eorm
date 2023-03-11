@@ -52,7 +52,7 @@ public class NoteDao{
 
                     category.setPages(pages);
                     }catch(Exception e){
-
+                        category.setPages(new LinkedList<Page>());
                     }
 
                     x.add(category);
@@ -92,4 +92,68 @@ public class NoteDao{
         return new Categories();
     }
     }
+
+    @Value("${get_notes}")
+    String get_note;
+    public Page get_notes(Page page){
+        LinkedList <Note>notes=new LinkedList<Note>();
+        try{
+            return template.queryForObject(String.format(get_note,page.getId()),new RowMapper<Page>(){
+                public Page mapRow(ResultSet rs,int rownumber)throws SQLException{
+                    do{
+                        Note note=new Note();
+                        note.setId(rs.getInt(1));
+                        note.setName(rs.getString(2));
+                        note.setBody(rs.getString(3));
+                        notes.add(note);
+                    }while(rs.next());   
+                
+                page.setNotes(notes);
+                return page;
+                }
+
+            });
+            }
+        catch(Exception e){
+            return page;
+
+        }
+    }
+
+
+
+    @Value("${add_new_note}")
+    String add_new_note;
+    @Value("${update_note}")
+    String update_note;
+    public String add_note(Page page,Note note){
+    try{
+        if(note.getId()==-1){
+            if(template.update(String.format(add_new_note,page.getId(),note.getName(),note.getBody()))!=0){
+            
+            }
+        }else{
+            if(template.update(String.format(update_note,note.getName(),note.getBody(),note.getId(),page.getId()))!=1){
+            
+            }
+        }
+
+    }catch(Exception e){
+        return e.toString();
+    }
+    return " ";
+    }
+
+    @Value("${delete_note}")
+    String delete_note_sql;
+    public void delete_note(Note note){
+    try{
+        if(template.update(String.format(delete_note_sql,note.getId()))!=0){
+        }
+    }catch(Exception e){
+    }
+    }
+
+
+
 }

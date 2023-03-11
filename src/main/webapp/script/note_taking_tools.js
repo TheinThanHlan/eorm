@@ -1,20 +1,21 @@
+
 var note=[]                           
 var recovery_note=[]                  // store notes that are saved on database
 
-function note_template_str(no_of_notes){
-    return "<div class='note' note_number='"+no_of_notes+"' id='note-"+no_of_notes+"'>"                 +
+function note_template_str(no_of_notes,note_id=undefined,note_title="",note_body=""){
+    return "<div class='note' note_number='"+no_of_notes+"' id='note-"+no_of_notes+"' note_id='"+note_id+"'>"                 +
             "<div class='note_number button-general'>"                                                  +
             "<div class='number'>"                                                                      +
             no_of_notes                                                                                 +
             "</div>"                                                                                    +
             "</div>"                                                                                    +
             "<div class='note_name' contenteditable='true'  id='title-"+no_of_notes+"'>"                +
-            
+            note_title      +
             
             "</div>"                                                                                    +
             "<div class='note_content'>"                                                                +
             "<div class='nt' id='body-"+no_of_notes+"' contenteditable='true'>"                         + 
-            
+                note_body+
             "</div>"                                                                                    +
             "</div>"                                                                                    +   
             "</div>"
@@ -67,22 +68,29 @@ $(document).on("click",".tool",function(){
 //---------------current_using_button_________________________________
 var current_editing_note_number=1;
 $(document).on("click","#add_note_button",function(){
-    let no_of_notes=$("#notes").children().length + 1
-    $("#notes").append(
-       note_template_str(no_of_notes)
-    )
-    recovery_note.push({title:"",body:"",db_id:"",date_time:""});
+    if(current_page.id!=undefined){
+        let no_of_notes=$("#notes").children().length + 1
+        $("#notes").append(
+        note_template_str(no_of_notes)
+        )
+        $($("#title-"+no_of_notes).focus())
+    }else{
+        alert("please select the page first");
+    }
+    $("#is_saved").children("svg").css("fill","red")
+    
 })
 
 //find current note
 $(document).on("click focus",".note",function(){    
     let no_of_notes=$("#notes").children().length +1
-    if((recovery_note[current_editing_note_number-1].title != $("#title-"+current_editing_note_number).text())    ||
-        (recovery_note[current_editing_note_number-1].note != $("#body-"+current_editing_note_number).text())
-    ){
-        recovery_note[current_editing_note_number-1].title = $("#title-"+current_editing_note_number).text()
-        recovery_note[current_editing_note_number-1].body = $("#body-"+current_editing_note_number).text()
-    }
+
+    let tmp={ title:$('#title-'+current_editing_note_number).html(),
+                body:$('#body-'+current_editing_note_number).html(),
+                page_id:current_page.id,
+                note_date:   new Date().getFullYear()+"-"+new Date().getMonth()+"-"+new Date().getDate()+" "+new Date().getHours()+":"+new Date().getMinutes()+":"+new Date().getSeconds(),
+            }
+
 
     current_editing_note_number=$(this).attr("note_number")
     tmp=$(this).children(".note_number")
@@ -144,7 +152,12 @@ $(document).on("click","#italic_button",function(){
 
 
 
-
+function refreshNote(notes){
+    $("#notes").html("")
+    for (let a=0;a<notes.length;a++){
+       $("#notes").append(note_template_str(a+1,notes[a].id,notes[a].name,notes[a].body));
+    }
+}
 
 
 
@@ -154,6 +167,61 @@ $(document).on("click","#italic_button",function(){
 $(document).on("keydown",'html',function(e){
     if(e.ctrlKey && e.which == 83){
         e.preventDefault()
-        alert("CTRL + S")
+        current_page.notes=[]
+        for(let a=0;a<$("#notes").children().length;a++){
+            if($("#note-"+(a+1)).attr("note_id")!=undefined && $("#title-"+(a+1)).text()!=""  && $("#body-"+(a+1)).html()!=""){
+                current_page.notes.push({})
+                current_page.notes[a].id=($("#note-"+(a+1)).attr("note_id")=='undefined'?-1:$("#note-"+(a+1)).attr("note_id"))
+                current_page.notes[a].name=$("#title-"+(a+1)).text()
+                current_page.notes[a].body=$("#body-"+(a+1)).html()
+                current_page.notes[a].date= new Date().getFullYear()+"-"+new Date().getMonth()+"-"+new Date().getDate()+" "+new Date().getHours()+":"+new Date().getMinutes()+":"+new Date().getSeconds()
+            }
+        }
+        
+    tmp=JSON.stringify(current_page.notes);
+    $.ajax({
+      url:"edit_note",
+      method:"Post",
+      data:{id:current_page.id,notes:tmp},
+      success:function(result){
+        let tmpResult=JSON.parse(result)
+        if(tmpResult[0]==true){
+            current_page=  tmpResult[1]
+            refreshNote(current_page.notes);
+            $("#is_saved").children("svg").css("fill","green")
+        }else{
+            
+        }
+      }
+    }) 
+
+
+
+
+
+        
     }
+})
+
+
+
+
+$(document).on("click","#delete_button",function(){
+    let tmp={ 
+        page_id:current_page.id,
+        note_id:$('#note-'+current_editing_note_number).attr("note_id"),
+    } 
+    if(tmp.note_id!='undefined'){
+        $.ajax({
+            url:"delete_note",
+            method:"Post",
+            data:{page_id:current_page.id,note_id:tmp.note_id},
+            success:function(result){
+              let tmpResult=JSON.parse(result)
+              current_page=  tmpResult[1]
+             refreshNote(current_page.notes);
+            }
+        })
+    }
+   
 })

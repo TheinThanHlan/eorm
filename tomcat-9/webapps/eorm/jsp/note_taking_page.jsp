@@ -155,8 +155,10 @@
         </div>
 
     </div>
+
     <div id="body">
         <div id="side_bar" class="margin-general">
+        <!--search-
             <div class="i-box-ico ">
                 <input type="text" />
                 <div class="level-3-button button-general  ">
@@ -176,7 +178,7 @@
                         </svg>
                 </div>
             </div>
-            
+        -->
             <div style="text-align:right;margin-right:8px;margin-top:5px;margin-bottom:5px;">    
                 <div class="button-general level-3-button tool level-3-button-1" id="add_page_form">
                     <?xml version="1.0" ?><svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M6 22h12a2 2 0 0 0 2-2V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2zm7-18 5 5h-5V4zM8 14h3v-3h2v3h3v2h-3v3h-2v-3H8v-2z"/></svg>
@@ -186,110 +188,22 @@
                     <?xml version="1.0" ?><svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M20 5h-9.586L8.707 3.293A.997.997 0 0 0 8 3H4c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h16c1.103 0 2-.897 2-2V7c0-1.103-.897-2-2-2zm-4 9h-3v3h-2v-3H8v-2h3V9h2v3h3v2z"/></svg>
                 </div>
             </div>
-            <div id="note_categories" class="">
-                <!------------------------------note categoary----------------------------------------------------------->
-                <div class="note_categoary">
-                    <div class="button-general note_categoary_button note_categoary_button_1">
-                        <div class="note_categoary_icon_1">
-                            <?xml version="1.0" ?>
-                                <svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M20 8h-12c-2.21 0-3.98 1.79-3.98 4l-.02 24c0 2.21 1.79 4 4 4h32c2.21 0 4-1.79 4-4v-20c0-2.21-1.79-4-4-4h-16l-4-4z" />
-                                    <path d="M0 0h48v48h-48z" fill="none" />
-                                </svg>
-                        </div>
-                        <div class="note_categoary_title note_categoary_title_1">
-                            <div>
-                                Chemistry
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="note_categoary_fold">
-                        <div class="button-general note_categoary_button note_categoary_button_2 ">
-                            <div class="note_categoary_icon_2">
-                                <?xml version="1.0" ?>
-                                    <svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M12 4c-2.21 0-3.98 1.79-3.98 4l-.02 32c0 2.21 1.77 4 3.98 4h24.02c2.21 0 4-1.79 4-4v-24l-12-12h-16zm14 14v-11l11 11h-11z" />
-                                        <path d="M0 0h48v48h-48z" fill="none" />
-                                    </svg>
-                            </div>
-                            <div class="note_categoary_title note_categoary_title_2">
-                                <div>
-                                    bounds
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="button-general note_categoary_button note_categoary_button_2 ">
-                            <div class="note_categoary_icon_2">
-                                <?xml version="1.0" ?>
-                                    <svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M12 4c-2.21 0-3.98 1.79-3.98 4l-.02 32c0 2.21 1.77 4 3.98 4h24.02c2.21 0 4-1.79 4-4v-24l-12-12h-16zm14 14v-11l11 11h-11z" />
-                                        <path d="M0 0h48v48h-48z" fill="none" />
-                                    </svg>
-                            </div>
-                            <div class="note_categoary_title note_categoary_title_2">
-                                <div>
-                                    Alcohols Phenols and Ethers
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!---test-->
-
-                <div class="note_categoary">
-                    <div class="button-general note_categoary_button note_categoary_button_1">
-                        <div class="note_categoary_icon_1">
-                            <?xml version="1.0" ?>
-                                <svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M20 8h-12c-2.21 0-3.98 1.79-3.98 4l-.02 24c0 2.21 1.79 4 4 4h32c2.21 0 4-1.79 4-4v-20c0-2.21-1.79-4-4-4h-16l-4-4z" />
-                                    <path d="M0 0h48v48h-48z" fill="none" />
-                                </svg>
-                        </div>
-                        <div class="note_categoary_title note_categoary_title_1">
-                            <div>
-                                Physics
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="note_categoary_fold">
-                        <div class="button-general note_categoary_button note_categoary_button_2 ">
-                            <div class="note_categoary_icon_2">
-                                <?xml version="1.0" ?>
-                                    <svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M12 4c-2.21 0-3.98 1.79-3.98 4l-.02 32c0 2.21 1.77 4 3.98 4h24.02c2.21 0 4-1.79 4-4v-24l-12-12h-16zm14 14v-11l11 11h-11z" />
-                                        <path d="M0 0h48v48h-48z" fill="none" />
-                                    </svg>
-                            </div>
-                            <div class="note_categoary_title note_categoary_title_2">
-                                <div>
-                                    velocity
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="button-general note_categoary_button note_categoary_button_2 ">
-                            <div class="note_categoary_icon_2">
-                                <?xml version="1.0" ?>
-                                    <svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M12 4c-2.21 0-3.98 1.79-3.98 4l-.02 32c0 2.21 1.77 4 3.98 4h24.02c2.21 0 4-1.79 4-4v-24l-12-12h-16zm14 14v-11l11 11h-11z" />
-                                        <path d="M0 0h48v48h-48z" fill="none" />
-                                    </svg>
-                            </div>
-                            <div class="note_categoary_title note_categoary_title_2">
-                                <div>
-                                    force
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <!----------------------------------------------------------------------------------------------------->
+<!------------------note cat---------------------------->           
+<div id="note_categories">
+<!----
+    <div class="nt_cat">
+        <div class="button-general nt_button">
+            <div>
+                sjel;rkj
             </div>
+        </div>
+        <div class="nt_fold" hidden="true">
+            <div class="button-general pg_fold_button"><div>ee</div></div>
+        </div>
+    </div>
+-------------------------------------------------------------->
+</div>
+
 
 
 
@@ -306,8 +220,8 @@
                 </div>
 
                 <!--------------------------------------opened note -------------------------------------->
-                <div>
-                    <span id="nn">
+                <div class="title_div">
+                    <span id="nn" class="note_name">
                         Chemistry
                     </span>
                     <span id="is_saved">
@@ -316,7 +230,7 @@
                                      
                 </div>
                 
-                <div id="date">feb.18.2023</div>
+                <div id="date" class="title_div">feb.18.2023</div>
                 <!-------------------------------------------------------------------------------->
             </div>
 
@@ -392,7 +306,7 @@
                 </div>
             </div>
         </div>
-        <div class="delete">
+        <div class="delete" id="delete_button">
             <div class="current_tool">
                 <div class="button-general level-3-button tool">
                     <?xml version="1.0" ?><svg id="Icons" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{}</style></defs><path class="cls-1" d="M22,4H16V3a3,3,0,0,0-3-3H11A3,3,0,0,0,8,3V4H2A1,1,0,0,0,2,6H4V20a3,3,0,0,0,3,3H17a3,3,0,0,0,3-3V6h2a1,1,0,0,0,0-2ZM10,3a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1V4H10ZM9,18a1,1,0,0,1-2,0V10a1,1,0,0,1,2,0Zm4,0a1,1,0,0,1-2,0V10a1,1,0,0,1,2,0Zm4,0a1,1,0,0,1-2,0V10a1,1,0,0,1,2,0Z"/></svg>
@@ -400,7 +314,7 @@
             </div>
         </div>
         <div class="add_new_row">
-
+            <!--
             <div class="more_tools " id="more_tools_add_rem_note">
                 
                 <div class="button-general level-3-button tool">
@@ -408,7 +322,7 @@
                 </div>      
             
             </div>
-
+        -->
 
             <div class="current_tool">
                 <div class="button-general level-3-button tool" id="add_note_button">

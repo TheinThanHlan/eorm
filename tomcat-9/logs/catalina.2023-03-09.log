@@ -4968,3 +4968,373 @@
 09-Mar-2023 22:32:02.513 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4461] milliseconds
 09-Mar-2023 22:32:07.002 WARNING [http-nio-8080-exec-4] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
 09-Mar-2023 22:32:07.070 WARNING [http-nio-8080-exec-5] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:34:08.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.73
+09-Mar-2023 23:34:08.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 15:33:40 UTC
+09-Mar-2023 23:34:08.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.73.0
+09-Mar-2023 23:34:08.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+09-Mar-2023 23:34:08.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-35-generic
+09-Mar-2023 23:34:08.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Mar-2023 23:34:08.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-19-openjdk-amd64
+09-Mar-2023 23:34:08.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.2+7-Ubuntu-0ubuntu322.04
+09-Mar-2023 23:34:08.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+09-Mar-2023 23:34:08.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:34:08.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:34:08.220 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Mar-2023 23:34:08.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Mar-2023 23:34:08.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-Mar-2023 23:34:08.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Mar-2023 23:34:08.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Mar-2023 23:34:08.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/tth/Desktop/projects/eorm/tomcat-9/conf/logging.properties
+09-Mar-2023 23:34:08.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Mar-2023 23:34:08.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Mar-2023 23:34:08.222 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Mar-2023 23:34:08.222 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+09-Mar-2023 23:34:08.222 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Mar-2023 23:34:08.222 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:34:08.222 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:34:08.222 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/tth/Desktop/projects/eorm/tomcat-9/temp
+09-Mar-2023 23:34:08.224 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+09-Mar-2023 23:34:08.769 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:34:08.805 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [842] milliseconds
+09-Mar-2023 23:34:08.869 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Mar-2023 23:34:08.870 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.73]
+09-Mar-2023 23:34:08.895 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war]
+09-Mar-2023 23:34:08.923 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:34:10.781 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:34:10.864 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:34:12.117 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 1252 ms
+09-Mar-2023 23:34:12.133 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war] has finished in [3,238] ms
+09-Mar-2023 23:34:12.134 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war]
+09-Mar-2023 23:34:12.137 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:34:12.790 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:34:12.807 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:34:13.343 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 536 ms
+09-Mar-2023 23:34:13.345 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war] has finished in [1,212] ms
+09-Mar-2023 23:34:13.346 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager]
+09-Mar-2023 23:34:13.386 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager] has finished in [40] ms
+09-Mar-2023 23:34:13.387 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT]
+09-Mar-2023 23:34:13.406 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT] has finished in [20] ms
+09-Mar-2023 23:34:13.406 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples]
+09-Mar-2023 23:34:13.636 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples] has finished in [229] ms
+09-Mar-2023 23:34:13.636 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager]
+09-Mar-2023 23:34:13.664 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager] has finished in [28] ms
+09-Mar-2023 23:34:13.664 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs]
+09-Mar-2023 23:34:13.690 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs] has finished in [26] ms
+09-Mar-2023 23:34:13.694 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:34:13.707 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4899] milliseconds
+09-Mar-2023 23:34:29.280 WARNING [http-nio-8080-exec-6] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:34:29.352 WARNING [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:34:32.398 WARNING [http-nio-8080-exec-4] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:34:32.449 WARNING [http-nio-8080-exec-7] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:35:02.332 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+09-Mar-2023 23:35:02.333 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:35:02.334 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+09-Mar-2023 23:35:02.365 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [eorm] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+09-Mar-2023 23:35:02.366 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [eorm] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1759)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1589)
+09-Mar-2023 23:35:02.397 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:35:02.417 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:35:02.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.73
+09-Mar-2023 23:35:02.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 15:33:40 UTC
+09-Mar-2023 23:35:02.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.73.0
+09-Mar-2023 23:35:02.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+09-Mar-2023 23:35:02.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-35-generic
+09-Mar-2023 23:35:02.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Mar-2023 23:35:02.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-19-openjdk-amd64
+09-Mar-2023 23:35:02.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.2+7-Ubuntu-0ubuntu322.04
+09-Mar-2023 23:35:02.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+09-Mar-2023 23:35:02.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:35:02.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:35:02.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Mar-2023 23:35:02.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Mar-2023 23:35:02.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/tth/Desktop/projects/eorm/tomcat-9/conf/logging.properties
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:35:02.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/tth/Desktop/projects/eorm/tomcat-9/temp
+09-Mar-2023 23:35:02.892 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+09-Mar-2023 23:35:03.314 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:35:03.344 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [697] milliseconds
+09-Mar-2023 23:35:03.385 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Mar-2023 23:35:03.385 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.73]
+09-Mar-2023 23:35:03.403 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war]
+09-Mar-2023 23:35:03.427 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:35:04.981 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:35:05.141 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:35:06.646 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 1505 ms
+09-Mar-2023 23:35:06.656 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war] has finished in [3,252] ms
+09-Mar-2023 23:35:06.657 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war]
+09-Mar-2023 23:35:06.663 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:35:07.400 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:35:07.426 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:35:07.982 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 556 ms
+09-Mar-2023 23:35:07.987 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war] has finished in [1,329] ms
+09-Mar-2023 23:35:07.988 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager]
+09-Mar-2023 23:35:08.031 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager] has finished in [44] ms
+09-Mar-2023 23:35:08.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT]
+09-Mar-2023 23:35:08.052 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT] has finished in [19] ms
+09-Mar-2023 23:35:08.052 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples]
+09-Mar-2023 23:35:08.244 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples] has finished in [192] ms
+09-Mar-2023 23:35:08.244 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager]
+09-Mar-2023 23:35:08.268 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager] has finished in [23] ms
+09-Mar-2023 23:35:08.268 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs]
+09-Mar-2023 23:35:08.287 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs] has finished in [19] ms
+09-Mar-2023 23:35:08.291 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:35:08.303 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4958] milliseconds
+09-Mar-2023 23:35:11.986 WARNING [http-nio-8080-exec-6] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:35:12.023 WARNING [http-nio-8080-exec-7] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:35:20.362 WARNING [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:35:20.410 WARNING [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:41:12.830 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+09-Mar-2023 23:41:12.830 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:41:12.831 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+09-Mar-2023 23:41:12.847 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [eorm] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+09-Mar-2023 23:41:12.848 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [eorm] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1759)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1589)
+09-Mar-2023 23:41:12.871 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:41:12.876 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:41:13.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.73
+09-Mar-2023 23:41:13.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 15:33:40 UTC
+09-Mar-2023 23:41:13.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.73.0
+09-Mar-2023 23:41:13.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+09-Mar-2023 23:41:13.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-35-generic
+09-Mar-2023 23:41:13.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Mar-2023 23:41:13.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-19-openjdk-amd64
+09-Mar-2023 23:41:13.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.2+7-Ubuntu-0ubuntu322.04
+09-Mar-2023 23:41:13.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+09-Mar-2023 23:41:13.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:41:13.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:41:13.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Mar-2023 23:41:13.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Mar-2023 23:41:13.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-Mar-2023 23:41:13.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Mar-2023 23:41:13.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Mar-2023 23:41:13.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/tth/Desktop/projects/eorm/tomcat-9/conf/logging.properties
+09-Mar-2023 23:41:13.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Mar-2023 23:41:13.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Mar-2023 23:41:13.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Mar-2023 23:41:13.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+09-Mar-2023 23:41:13.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Mar-2023 23:41:13.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:41:13.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:41:13.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/tth/Desktop/projects/eorm/tomcat-9/temp
+09-Mar-2023 23:41:13.364 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+09-Mar-2023 23:41:13.881 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:41:13.919 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [800] milliseconds
+09-Mar-2023 23:41:13.980 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Mar-2023 23:41:13.980 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.73]
+09-Mar-2023 23:41:14.006 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war]
+09-Mar-2023 23:41:14.040 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:41:15.836 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:41:15.960 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:41:17.266 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 1306 ms
+09-Mar-2023 23:41:17.279 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war] has finished in [3,272] ms
+09-Mar-2023 23:41:17.279 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war]
+09-Mar-2023 23:41:17.282 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:41:17.996 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:41:18.016 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:41:18.575 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 559 ms
+09-Mar-2023 23:41:18.577 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war] has finished in [1,298] ms
+09-Mar-2023 23:41:18.578 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager]
+09-Mar-2023 23:41:18.641 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager] has finished in [62] ms
+09-Mar-2023 23:41:18.641 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT]
+09-Mar-2023 23:41:18.669 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT] has finished in [28] ms
+09-Mar-2023 23:41:18.669 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples]
+09-Mar-2023 23:41:18.946 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples] has finished in [277] ms
+09-Mar-2023 23:41:18.948 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager]
+09-Mar-2023 23:41:18.987 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager] has finished in [39] ms
+09-Mar-2023 23:41:18.987 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs]
+09-Mar-2023 23:41:19.012 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs] has finished in [25] ms
+09-Mar-2023 23:41:19.017 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:41:19.036 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5114] milliseconds
+09-Mar-2023 23:41:22.469 WARNING [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:41:22.551 WARNING [http-nio-8080-exec-4] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:41:36.931 WARNING [http-nio-8080-exec-7] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:41:37.039 WARNING [http-nio-8080-exec-9] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:45:53.991 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+09-Mar-2023 23:45:53.991 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:45:53.994 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+09-Mar-2023 23:45:54.009 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [eorm] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+09-Mar-2023 23:45:54.010 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [eorm] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1759)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1589)
+09-Mar-2023 23:45:54.028 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:45:54.038 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:45:54.529 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.73
+09-Mar-2023 23:45:54.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 15:33:40 UTC
+09-Mar-2023 23:45:54.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.73.0
+09-Mar-2023 23:45:54.534 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+09-Mar-2023 23:45:54.534 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-35-generic
+09-Mar-2023 23:45:54.534 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Mar-2023 23:45:54.534 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-19-openjdk-amd64
+09-Mar-2023 23:45:54.534 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.2+7-Ubuntu-0ubuntu322.04
+09-Mar-2023 23:45:54.534 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+09-Mar-2023 23:45:54.535 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:45:54.535 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:45:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Mar-2023 23:45:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Mar-2023 23:45:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-Mar-2023 23:45:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Mar-2023 23:45:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Mar-2023 23:45:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/tth/Desktop/projects/eorm/tomcat-9/conf/logging.properties
+09-Mar-2023 23:45:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Mar-2023 23:45:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Mar-2023 23:45:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Mar-2023 23:45:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+09-Mar-2023 23:45:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Mar-2023 23:45:54.548 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:45:54.548 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:45:54.548 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/tth/Desktop/projects/eorm/tomcat-9/temp
+09-Mar-2023 23:45:54.550 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+09-Mar-2023 23:45:54.979 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:45:55.008 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [708] milliseconds
+09-Mar-2023 23:45:55.057 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Mar-2023 23:45:55.057 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.73]
+09-Mar-2023 23:45:55.076 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war]
+09-Mar-2023 23:45:55.101 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:45:57.193 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:45:57.368 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:45:58.833 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 1465 ms
+09-Mar-2023 23:45:58.846 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war] has finished in [3,770] ms
+09-Mar-2023 23:45:58.848 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war]
+09-Mar-2023 23:45:58.851 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:45:59.622 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:45:59.646 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:46:00.171 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 525 ms
+09-Mar-2023 23:46:00.172 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war] has finished in [1,325] ms
+09-Mar-2023 23:46:00.173 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager]
+09-Mar-2023 23:46:00.212 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager] has finished in [38] ms
+09-Mar-2023 23:46:00.212 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT]
+09-Mar-2023 23:46:00.236 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT] has finished in [24] ms
+09-Mar-2023 23:46:00.237 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples]
+09-Mar-2023 23:46:00.459 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples] has finished in [223] ms
+09-Mar-2023 23:46:00.460 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager]
+09-Mar-2023 23:46:00.486 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager] has finished in [26] ms
+09-Mar-2023 23:46:00.486 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs]
+09-Mar-2023 23:46:00.511 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs] has finished in [25] ms
+09-Mar-2023 23:46:00.516 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:46:00.534 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5522] milliseconds
+09-Mar-2023 23:46:06.816 WARNING [http-nio-8080-exec-3] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:46:06.883 WARNING [http-nio-8080-exec-4] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:46:26.288 WARNING [http-nio-8080-exec-10] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:46:26.319 WARNING [http-nio-8080-exec-2] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /eorm/src/main/resources/script/jquery-ui-1.13.2.custom/jquery-ui.min.css
+09-Mar-2023 23:54:32.498 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+09-Mar-2023 23:54:32.499 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:54:32.500 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+09-Mar-2023 23:54:32.527 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [eorm] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+09-Mar-2023 23:54:32.527 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [eorm] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1759)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1589)
+09-Mar-2023 23:54:32.560 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:54:32.568 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:54:33.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.73
+09-Mar-2023 23:54:33.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 15:33:40 UTC
+09-Mar-2023 23:54:33.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.73.0
+09-Mar-2023 23:54:33.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+09-Mar-2023 23:54:33.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-35-generic
+09-Mar-2023 23:54:33.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Mar-2023 23:54:33.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-19-openjdk-amd64
+09-Mar-2023 23:54:33.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.2+7-Ubuntu-0ubuntu322.04
+09-Mar-2023 23:54:33.344 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+09-Mar-2023 23:54:33.344 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:54:33.344 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:54:33.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Mar-2023 23:54:33.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Mar-2023 23:54:33.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-Mar-2023 23:54:33.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Mar-2023 23:54:33.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Mar-2023 23:54:33.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/tth/Desktop/projects/eorm/tomcat-9/conf/logging.properties
+09-Mar-2023 23:54:33.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Mar-2023 23:54:33.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Mar-2023 23:54:33.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Mar-2023 23:54:33.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+09-Mar-2023 23:54:33.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Mar-2023 23:54:33.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:54:33.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/tth/Desktop/projects/eorm/tomcat-9
+09-Mar-2023 23:54:33.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/tth/Desktop/projects/eorm/tomcat-9/temp
+09-Mar-2023 23:54:33.364 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+09-Mar-2023 23:54:33.997 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:54:34.041 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1072] milliseconds
+09-Mar-2023 23:54:34.119 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Mar-2023 23:54:34.119 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.73]
+09-Mar-2023 23:54:34.148 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war]
+09-Mar-2023 23:54:34.188 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:54:36.925 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:54:37.068 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:54:38.756 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 1687 ms
+09-Mar-2023 23:54:38.769 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/eorm.war] has finished in [4,621] ms
+09-Mar-2023 23:54:38.770 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war]
+09-Mar-2023 23:54:38.774 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test] was found with a last modified time that did not match the associated WAR. It will be deleted.
+09-Mar-2023 23:54:39.533 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Mar-2023 23:54:39.555 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+09-Mar-2023 23:54:40.070 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 515 ms
+09-Mar-2023 23:54:40.071 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/test.war] has finished in [1,301] ms
+09-Mar-2023 23:54:40.073 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager]
+09-Mar-2023 23:54:40.109 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/manager] has finished in [36] ms
+09-Mar-2023 23:54:40.109 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT]
+09-Mar-2023 23:54:40.133 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/ROOT] has finished in [23] ms
+09-Mar-2023 23:54:40.133 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples]
+09-Mar-2023 23:54:40.316 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/examples] has finished in [183] ms
+09-Mar-2023 23:54:40.316 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager]
+09-Mar-2023 23:54:40.340 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/host-manager] has finished in [24] ms
+09-Mar-2023 23:54:40.341 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs]
+09-Mar-2023 23:54:40.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/projects/eorm/tomcat-9/webapps/docs] has finished in [22] ms
+09-Mar-2023 23:54:40.366 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:54:40.381 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [6338] milliseconds
+09-Mar-2023 23:57:50.981 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:57:50.984 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+09-Mar-2023 23:57:51.082 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [eorm] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+09-Mar-2023 23:57:51.083 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [eorm] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1759)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1589)
+09-Mar-2023 23:57:51.123 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+09-Mar-2023 23:57:51.133 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
