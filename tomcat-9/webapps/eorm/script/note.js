@@ -3,6 +3,7 @@ var current_page={};
 var current_page_id={};
 
 
+
 $(document).ready(function(){
     $.ajax({
       url:"get_cat",
@@ -37,10 +38,11 @@ function refreshCat(catObj){
      
     let tmp12='';
         for(let b=0;b<catObj.categories[a].pages.length;b++){
-              tmp12 +='<div class="button-general pg_fold_button" cat="'+catObj.categories[a].id+'" pg="'+catObj.categories[a].pages[b].id+'"><div>'
+              tmp12 +='<div class="button-general pg_fold_button" cat="'+catObj.categories[a].id+'" pg="'+catObj.categories[a].pages[b].id+'" cdate="'+catObj.categories[a].pages[b].date+'"><div>'
                       + catObj.categories[a].pages[b].name
                       +'</div></div>'
-              }
+                    }
+
 
 
         tmp13="</div>"
@@ -63,7 +65,7 @@ function refreshCat(catObj){
 
 $(document).on("click","#ctpu_add_cat_button",function(){
     let tmp={cat_name:$("#cat_name").val(),
-            cat_date:   new Date().getFullYear()+"-"+new Date().getMonth()+"-"+new Date().getDate()+" "+new Date().getHours()+":"+new Date().getMinutes()+":"+new Date().getSeconds()
+            cat_date:   new Date().getFullYear()+"-"+(new Date().getMonth()+1)+"-"+new Date().getDate()+" "+new Date().getHours()+":"+new Date().getMinutes()+":"+new Date().getSeconds()
             }
     $.ajax({
       url:"add_cat",
@@ -90,7 +92,7 @@ $(document).on("click","#ctpu_add_page_button",function(){
     let tmp={
         cat_id:$("#cat_select option:selected").val(),
         page_name:$("#page_name").val(),
-        page_date:   new Date().getFullYear()+"-"+new Date().getMonth()+"-"+new Date().getDate()+" "+new Date().getHours()+":"+new Date().getMinutes()+":"+new Date().getSeconds()
+        page_date:   new Date().getFullYear()+"-"+(new Date().getMonth()+1)+"-"+new Date().getDate()+" "+new Date().getHours()+":"+new Date().getMinutes()+":"+new Date().getSeconds()
     }
     $.ajax({
       url:"add_page",
@@ -115,11 +117,13 @@ $(document).on("click","#ctpu_add_page_button",function(){
 $(document).on("click",".pg_fold_button",function(){
   tmp={
         cat_id:$(this).attr("cat"),
-        pg_id:$(this).attr("pg")
+        pg_id:$(this).attr("pg"),
+        date:$(this).attr("cdate")
       }
   current_page_id=tmp
   $(".title_div").css("visibility","visible")
   $("#nn").text($(this).children().text())
+  $("#date").text(tmp.date)
   $(this).addClass("current_note_color",100,function(){
     $(".pg_fold_button").not(this).removeClass("current_note_color");
   });
@@ -133,6 +137,7 @@ $(document).on("click",".pg_fold_button",function(){
 
             current_page=tmpResult[1]
             refreshNote(current_page.notes)
+            
           }else{
             
           }

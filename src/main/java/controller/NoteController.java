@@ -47,6 +47,7 @@ public class NoteController{
         page.setName(request.getParameter("page_name"));
             
         Categories categories= ndao.add_page(user,category,page);                 //use to get Categories
+        System.out.println("Pae Added \n __________________________________________");
         return (new Gson().toJson(new Object[]{!categories.isEmpty(),categories}));
         
     }
@@ -59,6 +60,7 @@ public class NoteController{
         User user=((User)(request.getSession().getAttribute("user")));      //get user from request session
         category.setId(Integer.parseInt(request.getParameter("cat_id")));                 //set cat to add
         page.setId(Integer.parseInt(request.getParameter("pg_id")));                 //set cat to add
+        page.setDate(request.getParameter("cdate"));
         
         page = ndao.get_notes(page);
         return (new Gson().toJson(new Object[]{!page.isEmpty(),page}));
@@ -99,7 +101,18 @@ public class NoteController{
 
 
 
+    @RequestMapping("test")
+    public String test(){
+        return "jsp/uploadTest.jsp";
+    }
 
+    @PostMapping ("/test1")
+    @ResponseBody
+    public String test( HttpServletRequest request){
+          return util.RecieveImage.rec(request)+" ";
+
+    }
+    
 
 
 

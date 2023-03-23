@@ -1,7 +1,7 @@
 :root{
     --primary-color:white;
     --secondary-color:black;
-    --button-color:#F60261;
+    --button-color:#000000a1;
     --default-outline-color:black;
     --border-width:1px;
     --default-width:400px;
@@ -30,7 +30,7 @@
 }
 
 .button:hover{
-    background-color:#ff0062e8;
+    background-color:#000000d0;
     border-radius:2px;   
     cursor:pointer;
     outline:2px solid var(--secondary-color);
@@ -38,7 +38,7 @@
 
 
 .button:active{
-    background-color:#f60202;
+    background-color:#00000027;
     outline:1px solid var(--secondary-color);
 }
 

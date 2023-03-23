@@ -62,7 +62,7 @@ public class AuthController{
     @ResponseBody public String signup(HttpServletRequest request){  
         try{
             User user=new User();
-
+            System.out.println("HaHa");
 
             user.setEmail(request.getParameter("email"));
             user.setPassword(request.getParameter("password"));

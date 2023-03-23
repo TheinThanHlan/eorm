@@ -30,6 +30,10 @@ dependencies{
 	//lombok
 	compileOnly 'org.projectlombok:lombok:1.18.26'
 	annotationProcessor 'org.projectlombok:lombok:1.18.26'
+
+
+	//common file upload
+	implementation 'commons-fileupload:commons-fileupload:1.5'
 }
 
 
@@ -56,7 +60,12 @@ task restart_server(){
 	dependsOn 'shutdown_server'
 	dependsOn 'start_server'
 }
+task read_log(type:Exec){
+	workingDir 'tomcat-9/logs'
 
+	commandLine "cat","catalina.out"
+
+}
 
 task cp(type:Copy){
 	dependsOn "build"
@@ -64,11 +73,14 @@ task cp(type:Copy){
 	into 'tomcat-9/webapps/'
 }
 
+
+
+
 task run(){
 	dependsOn  "build"
 	dependsOn "cp"
 	dependsOn "shutdown_server"
 	dependsOn "start_server"
 	//dependsOn "go_to_browser"
-	
+	dependsOn 'read_log'	
 }

@@ -15,7 +15,7 @@ public class JdbcConfig{
     private final String url= "jdbc:mysql://localhost:3306/rem";
 	private final String user= "tth";
 	private final String driver= "com.mysql.jdbc.Driver";
-	private final String password= "1212";
+	private final String password= "aeroplan";
 
 
     @Bean

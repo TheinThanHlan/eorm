@@ -1,0 +1,53 @@
+22-Mar-2023 16:24:30.641 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.73
+22-Mar-2023 16:24:30.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 15:33:40 UTC
+22-Mar-2023 16:24:30.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.73.0
+22-Mar-2023 16:24:30.655 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+22-Mar-2023 16:24:30.655 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-32-generic
+22-Mar-2023 16:24:30.655 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+22-Mar-2023 16:24:30.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /home/tth/programs/jdk-19.0.2
+22-Mar-2023 16:24:30.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           19.0.2+7-44
+22-Mar-2023 16:24:30.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Mar-2023 16:24:30.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/tth/Desktop/eorm/tomcat-9
+22-Mar-2023 16:24:30.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/tth/Desktop/eorm/tomcat-9
+22-Mar-2023 16:24:30.688 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Mar-2023 16:24:30.688 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Mar-2023 16:24:30.688 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Mar-2023 16:24:30.689 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Mar-2023 16:24:30.689 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Mar-2023 16:24:30.689 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/tth/Desktop/eorm/tomcat-9/conf/logging.properties
+22-Mar-2023 16:24:30.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Mar-2023 16:24:30.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+22-Mar-2023 16:24:30.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Mar-2023 16:24:30.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+22-Mar-2023 16:24:30.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+22-Mar-2023 16:24:30.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/tth/Desktop/eorm/tomcat-9
+22-Mar-2023 16:24:30.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/tth/Desktop/eorm/tomcat-9
+22-Mar-2023 16:24:30.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/tth/Desktop/eorm/tomcat-9/temp
+22-Mar-2023 16:24:30.697 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+22-Mar-2023 16:24:31.817 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Mar-2023 16:24:31.880 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1821] milliseconds
+22-Mar-2023 16:24:31.977 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Mar-2023 16:24:31.977 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.73]
+22-Mar-2023 16:24:32.016 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/eorm/tomcat-9/webapps/eorm.war]
+22-Mar-2023 16:24:32.060 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/home/tth/Desktop/eorm/tomcat-9/webapps/eorm] was found with a last modified time that did not match the associated WAR. It will be deleted.
+22-Mar-2023 16:24:35.730 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2023 16:24:35.885 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+22-Mar-2023 16:24:38.810 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 2924 ms
+22-Mar-2023 16:24:38.836 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/eorm/tomcat-9/webapps/eorm.war] has finished in [6,819] ms
+22-Mar-2023 16:24:38.838 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/tth/Desktop/eorm/tomcat-9/webapps/test.war]
+22-Mar-2023 16:24:40.367 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2023 16:24:40.410 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'spring'
+22-Mar-2023 16:24:41.613 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 1202 ms
+22-Mar-2023 16:24:41.616 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/tth/Desktop/eorm/tomcat-9/webapps/test.war] has finished in [2,778] ms
+22-Mar-2023 16:24:41.618 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/docs]
+22-Mar-2023 16:24:41.676 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/docs] has finished in [59] ms
+22-Mar-2023 16:24:41.677 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/examples]
+22-Mar-2023 16:24:42.085 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/examples] has finished in [407] ms
+22-Mar-2023 16:24:42.085 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/ROOT]
+22-Mar-2023 16:24:42.122 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/ROOT] has finished in [36] ms
+22-Mar-2023 16:24:42.122 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/manager]
+22-Mar-2023 16:24:42.176 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/manager] has finished in [53] ms
+22-Mar-2023 16:24:42.176 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/host-manager]
+22-Mar-2023 16:24:42.216 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/tth/Desktop/eorm/tomcat-9/webapps/host-manager] has finished in [40] ms
+22-Mar-2023 16:24:42.224 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Mar-2023 16:24:42.251 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [10366] milliseconds

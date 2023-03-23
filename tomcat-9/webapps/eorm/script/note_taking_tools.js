@@ -2,7 +2,12 @@
 var note=[]                           
 var recovery_note=[]                  // store notes that are saved on database
 
+ 
+
+
 function note_template_str(no_of_notes,note_id=undefined,note_title="",note_body=""){
+    
+     
     return "<div class='note' note_number='"+no_of_notes+"' id='note-"+no_of_notes+"' note_id='"+note_id+"'>"                 +
             "<div class='note_number button-general'>"                                                  +
             "<div class='number'>"                                                                      +
@@ -10,19 +15,18 @@ function note_template_str(no_of_notes,note_id=undefined,note_title="",note_body
             "</div>"                                                                                    +
             "</div>"                                                                                    +
             "<div class='note_name' contenteditable='true'  id='title-"+no_of_notes+"'>"                +
-            note_title      +
-            
+            note_title     +
             "</div>"                                                                                    +
             "<div class='note_content'>"                                                                +
-            "<div class='nt' id='body-"+no_of_notes+"' contenteditable='true'>"                         + 
+            "<div class='nt' id='body-"+no_of_notes+"' contenteditable='true' >"                         + 
                 note_body+
             "</div>"                                                                                    +
             "</div>"                                                                                    +   
             "</div>"
+
 }
 
-
-
+	
 
 
 
@@ -78,7 +82,8 @@ $(document).on("click","#add_note_button",function(){
         alert("please select the page first");
     }
     $("#is_saved").children("svg").css("fill","red")
-    
+      
+  
 })
 
 //find current note
@@ -96,10 +101,24 @@ $(document).on("click focus",".note",function(){
     tmp=$(this).children(".note_number")
     $(this).children(".note_number").addClass("current_note_color",100,function(){
         $(".note_number").not(tmp).removeClass("current_note_color",100)
-    
     })  
-
+    /*
+    $(this).children(".note_content").children(".nt").tinymce({
+        height: 200,
+        menubar: false,
+        plugins: [
+          'advlist', 'autolink', 'lists', 'link', 'image', 'charmap', 'preview',
+          'anchor', 'searchreplace', 'visualblocks', 'fullscreen',
+          'insertdatetime', 'media', 'table', 'code', 'help', 'wordcount'
+        ],
+        toolbar: 'undo redo | blocks | bold italic backcolor | ' +
+          'alignleft aligncenter alignright alignjustify | ' +
+          'bullist numlist outdent indent | removeformat | help'
+      });*/
+  
 })
+
+
 
 
 
@@ -157,6 +176,7 @@ function refreshNote(notes){
     for (let a=0;a<notes.length;a++){
        $("#notes").append(note_template_str(a+1,notes[a].id,notes[a].name,notes[a].body));
     }
+    
 }
 
 
@@ -169,7 +189,7 @@ $(document).on("keydown",'html',function(e){
         e.preventDefault()
         current_page.notes=[]
         for(let a=0;a<$("#notes").children().length;a++){
-            if($("#note-"+(a+1)).attr("note_id")!=undefined && $("#title-"+(a+1)).text()!=""  && $("#body-"+(a+1)).html()!=""){
+            if($("#note-"+(a+1)).attr("note_id")!=undefined || $("#title-"+(a+1)).text()!=""  || $("#body-"+(a+1)).html()!=""){
                 current_page.notes.push({})
                 current_page.notes[a].id=($("#note-"+(a+1)).attr("note_id")=='undefined'?-1:$("#note-"+(a+1)).attr("note_id"))
                 current_page.notes[a].name=$("#title-"+(a+1)).text()
