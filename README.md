@@ -2,4 +2,7 @@
 Echo Of Rememberances
 
 to run 
-  gradle run 
+  gradle run a
+
+
+eeei
